@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/RStrouse89/RStrouse89/blob/main/git.gif" alt="animated" />
+  <img src="https://github.com/RStrouse89/RStrouse89/blob/main/git.gif" width="100%" alt="animated" />
 </p>
 
 
@@ -102,6 +102,7 @@
 </table>
 
 </div>
+  
   <!--Analytics & Data-->
 <h2 align="center">Data & Analytics</h2>
 <div align="center">
