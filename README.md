@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="demo.gif" alt="animated" />
+  <img src="https://github.com/RStrouse89/RStrouse89/blob/main/git.gif" alt="animated" />
 </p>
-![](C:/Users/rnice/Desktop/Personal/Software_Engineer/Portfolio/Github/git.gif?raw=true)![git](https://user-images.githubusercontent.com/101421538/173442041-cecb18fb-dc6b-49f2-bab6-caca9e7e6081.gif)
+
 
 
 
