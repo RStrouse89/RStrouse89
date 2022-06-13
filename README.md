@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/RStrouse89/RStrouse89/blob/main/git.gif" width="100%" alt="animated" />
+  <img src="https://github.com/RStrouse89/RStrouse89/blob/main/github.gif" width="90%" alt="animated" />
 </p>
 
 
@@ -25,7 +25,7 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center" color="white">Naruto 2D Game Selector</h2>
+<!-- <h3 align="center" color="white">Naruto 2D Game Selector</h2>
 <div align="center" >  
 <a href='https://narutobattlescreen-js.netlify.app/'>
 <img src="https://github.com/ssaryonjr/ssaryonjr/blob/main/ezgif.com-gif-maker.gif?raw=true" alt="Naruto Game" height="322px" width="100%" />
@@ -101,7 +101,7 @@
 </div>
 </table>
 
-</div>
+</div> -->
   
   <!--Analytics & Data-->
 <h2 align="center">Data & Analytics</h2>
@@ -109,13 +109,13 @@
 <table>
 <tr>
 <td width="50%">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=ssaryonjr&hide_border=true&background=FFFFFF00&fire=0AA9FF&currStreakLabel=0AA9FF&ring=006fc9&currStreakNum=00AEFF&sideNums=0AA9FF&sideLabels=0AA9FF&dates=999c9e&stroke=E0E0E04E">
+<!-- <img src="http://github-readme-streak-stats.herokuapp.com?user=ssaryonjr&hide_border=true&background=FFFFFF00&fire=0AA9FF&currStreakLabel=0AA9FF&ring=006fc9&currStreakNum=00AEFF&sideNums=0AA9FF&sideLabels=0AA9FF&dates=999c9e&stroke=E0E0E04E">
 </td>
 <td width="50%">
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=ssaryonjr&bg_color=FFFFFF00&hide_border=true&text_color=005da8&title_color=1288ff&include_all_commits=true&count_private=true">
 </table>
 </div>
-<img src="https://activity-graph.herokuapp.com/graph?username=ssaryonjr&bg_color=FFFFFF00&color=0aa9ff&line=1288ff&point=26acff&hide_border=true&title_color="> 
+<img src="https://activity-graph.herokuapp.com/graph?username=ssaryonjr&bg_color=FFFFFF00&color=0aa9ff&line=1288ff&point=26acff&hide_border=true&title_color="> -->
 <h2 align="center">Technical Skills</h2>
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-FF0000?style=for-the-badge&logo=html5&logoColor=gray" height=25>
