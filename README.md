@@ -8,7 +8,7 @@
 <p align="center">
 <a href="https://twitter.com/mightyman1989"><img src="https://img.shields.io/badge/@mightyman1989-FF0000?&style=for-the-badge&logo=twitter&logoColor=lightgray" height=25></a>
 <a href="https://www.codewars.com/users/RStrouse89"><img src="https://img.shields.io/badge/Codewars-FF0000?style=for-the-badge&logo=Codewars&logoColor=lightgray" height=25></a>
-<a href="mailto:Robert.Strouse1989@email.com"><img src="https://img.shields.io/badge/Robert.Strouse1989@gmail.com-FF0000?style=for-the-badge&logo=gmail&logoColor=lightgray" height=25></a>
+<a href="mailto:Robert.Strouse1989@gmail.com"><img src="https://img.shields.io/badge/Robert.Strouse1989@gmail.com-FF0000?style=for-the-badge&logo=gmail&logoColor=lightgray" height=25></a>
 <a href="https://www.linkedin.com/in/robert-strouse-11092016/"><img src="https://img.shields.io/badge/Robert_Strouse-FF0000?style=for-the-badge&logo=linkedin&logoColor=lightgray" height=25></a>
 <a href="https://drive.google.com/file/d/1IpjqHQsgB_sHRJt01xsM01S-E5n1V5EH/view?usp=sharing"><img src="https://img.shields.io/badge/Download_Resume-FF0000?style=for-the-badge&logo=googledrive&logoColor=lightgray" height=25></a>
 </p>
