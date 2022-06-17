@@ -109,7 +109,7 @@
 <img src="http://github-readme-streak-stats.herokuapp.com?user=RStrouse89&hide_border=true&background=ff0000&fire=a9a9a9&currStreakLabel=808080&ring=a9a9a9&currStreakNum=808080&sideNums=808080&sideLabels=808080&dates=808080&stroke=808080">
 </td>
 <td width="50%">
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=RStrouse89&bg_color=FFFFFF00&hide_border=true&text_color=005da8&title_color=1288ff&include_all_commits=true&count_private=true">
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=RStrouse89&bg_color=FF2400&hide_border=true&text_color=808080&title_color=808080&include_all_commits=true&count_private=true">
 </table>
 </div>
 <img src="https://activity-graph.herokuapp.com/graph?username=RStrouse89&bg_color=FFFFFF00&color=0aa9ff&line=1288ff&point=26acff&hide_border=true&title_color=">
