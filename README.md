@@ -112,7 +112,7 @@
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=RStrouse89&bg_color=000000&hide_border=true&text_color=89CFF0&title_color=89CFF0&include_all_commits=true&count_private=true">
 </table>
 </div>
-<img src="https://activity-graph.herokuapp.com/graph?username=RStrouse89&bg_color=FFFFFF00&color=0aa9ff&line=1288ff&point=26acff&hide_border=true&title_color=">
+<img src="https://activity-graph.herokuapp.com/graph?username=RStrouse89&bg_color=000000&color=89CFF0&line=C0C0C0&point=C0C0C0&hide_border=true&title_color=">
 
   
 <h2 align="center">Technical Skills</h2>
