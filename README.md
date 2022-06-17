@@ -106,7 +106,7 @@
 <table>
 <tr>
 <td width="50%">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=RStrouse89&hide_border=true&background=ff0000&fire=a9a9a9&currStreakLabel=808080&ring=a9a9a9&currStreakNum=808080&sideNums=808080&sideLabels=808080&dates=808080&stroke=808080">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=RStrouse89&hide_border=true&background=ff0000&fire=000000&currStreakLabel=000000&ring=000000&currStreakNum=000000&sideNums=000000&sideLabels=000000&dates=000000&stroke=000000">
 </td>
 <td width="50%">
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=RStrouse89&bg_color=FF2400&hide_border=true&text_color=808080&title_color=808080&include_all_commits=true&count_private=true">
