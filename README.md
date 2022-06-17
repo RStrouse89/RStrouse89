@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-<a href="https://twitter.com/mightyman1989"><img src="https://img.shields.io/badge/@mightyman1989-FF0000?&style=for-the-badge&logo=twitter&logoColor=lightgray" height=25></a>
-<a href="https://www.codewars.com/users/RStrouse89"><img src="https://img.shields.io/badge/Codewars-FF0000?style=for-the-badge&logo=Codewars&logoColor=lightgray" height=25></a>
-<a href="mailto:Robert.Strouse1989@gmail.com"><img src="https://img.shields.io/badge/Robert.Strouse1989@gmail.com-FF0000?style=for-the-badge&logo=gmail&logoColor=lightgray" height=25></a>
-<a href="https://www.linkedin.com/in/robert-strouse-11092016/"><img src="https://img.shields.io/badge/Robert_Strouse-FF0000?style=for-the-badge&logo=linkedin&logoColor=lightgray" height=25></a>
-<a href="https://drive.google.com/file/d/1IpjqHQsgB_sHRJt01xsM01S-E5n1V5EH/view?usp=sharing"><img src="https://img.shields.io/badge/Download_Resume-FF0000?style=for-the-badge&logo=googledrive&logoColor=lightgray" height=25></a>
+<a href="https://twitter.com/mightyman1989"><img src="https://img.shields.io/badge/@mightyman1989-000000?&style=for-the-badge&logo=twitter&logoColor=89CFF0" height=25></a>
+<a href="https://www.codewars.com/users/RStrouse89"><img src="https://img.shields.io/badge/Codewars-000000?style=for-the-badge&logo=Codewars&logoColor=89CFF0" height=25></a>
+<a href="mailto:Robert.Strouse1989@gmail.com"><img src="https://img.shields.io/badge/Robert.Strouse1989@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=89CFF0" height=25></a>
+<a href="https://www.linkedin.com/in/robert-strouse-11092016/"><img src="https://img.shields.io/badge/Robert_Strouse-000000?style=for-the-badge&logo=linkedin&logoColor=89CFF0" height=25></a>
+<a href="https://drive.google.com/file/d/1IpjqHQsgB_sHRJt01xsM01S-E5n1V5EH/view?usp=sharing"><img src="https://img.shields.io/badge/Download_Resume-000000?style=for-the-badge&logo=googledrive&logoColor=89CFF0" height=25></a>
 </p>
 
 <p align="center">
@@ -109,7 +109,7 @@
 <img src="http://github-readme-streak-stats.herokuapp.com?user=RStrouse89&hide_border=true&background=000000&fire=89CFF0&currStreakLabel=89CFF0&ring=89CFF0&currStreakNum=89CFF0&sideNums=89CFF0&sideLabels=89CFF0&dates=C0C0C0&stroke=89CFF0">
 </td>
 <td width="50%">
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=RStrouse89&bg_color=FF2400&hide_border=true&text_color=808080&title_color=808080&include_all_commits=true&count_private=true">
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=RStrouse89&bg_color=000000&hide_border=true&text_color=89CFF0&title_color=89CFF0&include_all_commits=true&count_private=true">
 </table>
 </div>
 <img src="https://activity-graph.herokuapp.com/graph?username=RStrouse89&bg_color=FFFFFF00&color=0aa9ff&line=1288ff&point=26acff&hide_border=true&title_color=">
@@ -117,16 +117,16 @@
   
 <h2 align="center">Technical Skills</h2>
 <p align="center">
-<img src="https://img.shields.io/badge/HTML5-FF0000?style=for-the-badge&logo=html5&logoColor=gray" height=25>
-<img src="https://img.shields.io/badge/CSS3-FF0000?style=for-the-badge&logo=css3&logoColor=gray" height=25>
-<img src="https://img.shields.io/badge/JavaScript-FF0000?style=for-the-badge&logo=javascript&logoColor=gray" height=25>
-<img src="https://img.shields.io/badge/Node.js-FF0000?style=for-the-badge&logo=nodedotjs&logoColor=gray" height=25>
-<img src="https://img.shields.io/badge/React-FF0000?style=for-the-badge&logo=react&logoColor=gray" height=25>
-<img src="https://img.shields.io/badge/Express.js-FF0000?style=for-the-badge&logo=express&logoColor=gray" height=25>
-<img src="https://img.shields.io/badge/MongoDB-FF0000?style=for-the-badge&logo=mongodb&logoColor=gray" height=25>
-<img src="https://img.shields.io/badge/jQuery-FF0000?style=for-the-badge&logo=jquery&logoColor=gray" height=25>
-<img src="https://img.shields.io/badge/Visual_Studio-FF0000?style=for-the-badge&logo=visual%20studio&logoColor=gray" height=25>
-<img src="https://img.shields.io/badge/GIT-FF0000?style=for-the-badge&logo=git&logoColor=gray" height=25>
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=89CFF0" height=25>
+<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=89CFF0" height=25>
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=89CFF0" height=25>
+<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=89CFF0" height=25>
+<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=89CFF0" height=25>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=89CFF0" height=25>
+<img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=89CFF0" height=25>
+<img src="https://img.shields.io/badge/jQuery-000000?style=for-the-badge&logo=jquery&logoColor=89CFF0" height=25>
+<img src="https://img.shields.io/badge/Visual_Studio-000000?style=for-the-badge&logo=visual%20studio&logoColor=89CFF0" height=25>
+<img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=89CFF0" height=25>
  
   
   <!--  <img src="https://img.shields.io/badge/firebase-005da8?style=for-the-badge&logo=firebase&logoColor=white" height=25> 
