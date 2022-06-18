@@ -112,7 +112,7 @@
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=RStrouse89&bg_color=000000&hide_border=true&text_color=89CFF0&title_color=89CFF0&include_all_commits=true&count_private=true">
 </table>
 </div>
-<img width="50%" src="https://activity-graph.herokuapp.com/graph?username=RStrouse89&bg_color=000000&color=89CFF0&line=C0C0C0&point=C0C0C0&hide_border=true&title_color=">
+<img width="100%" align="center" src="https://activity-graph.herokuapp.com/graph?username=RStrouse89&bg_color=000000&color=89CFF0&line=C0C0C0&point=C0C0C0&hide_border=true&title_color=">
 
   
 <h2 align="center">Technical Skills</h2>
@@ -122,6 +122,7 @@
 <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=89CFF0" height=25>
 <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=89CFF0" height=25>
 <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=89CFF0" height=25>
+  <br>
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=89CFF0" height=25>
 <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=89CFF0" height=25>
 <img src="https://img.shields.io/badge/jQuery-000000?style=for-the-badge&logo=jquery&logoColor=89CFF0" height=25>
