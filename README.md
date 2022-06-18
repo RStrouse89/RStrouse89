@@ -105,7 +105,7 @@
 <div align="center">
 <table>
 <tr>
-<td width="50%">
+<td width="max-width">
 <img src="http://github-readme-streak-stats.herokuapp.com?user=RStrouse89&hide_border=true&background=000000&fire=89CFF0&currStreakLabel=89CFF0&ring=89CFF0&currStreakNum=89CFF0&sideNums=89CFF0&sideLabels=89CFF0&dates=C0C0C0&stroke=89CFF0">
 </td>
 <td width="50%">
