@@ -105,14 +105,14 @@
 <div align="center">
 <table>
 <tr>
-<td width="max-width">
+<td width="50%">
 <img src="http://github-readme-streak-stats.herokuapp.com?user=RStrouse89&hide_border=true&background=000000&fire=89CFF0&currStreakLabel=89CFF0&ring=89CFF0&currStreakNum=89CFF0&sideNums=89CFF0&sideLabels=89CFF0&dates=C0C0C0&stroke=89CFF0">
 </td>
 <td width="50%">
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=RStrouse89&bg_color=000000&hide_border=true&text_color=89CFF0&title_color=89CFF0&include_all_commits=true&count_private=true">
 </table>
 </div>
-<img src="https://activity-graph.herokuapp.com/graph?username=RStrouse89&bg_color=000000&color=89CFF0&line=C0C0C0&point=C0C0C0&hide_border=true&title_color=">
+<img width="50%" src="https://activity-graph.herokuapp.com/graph?username=RStrouse89&bg_color=000000&color=89CFF0&line=C0C0C0&point=C0C0C0&hide_border=true&title_color=">
 
   
 <h2 align="center">Technical Skills</h2>
