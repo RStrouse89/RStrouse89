@@ -22,9 +22,9 @@
 <table>
 <tr>
 <td width="50%">
-<!--                            <h3 align="center" color="white">Naruto 2D Game Selector</h2>
+<h3 align="center" color="white">Green-Thumb</h2>
 <div align="center" >  
-<a href='https://narutobattlescreen-js.netlify.app/'>
+<a href='https://green-thumbapp.netlify.app'>
 <img src="https://github.com/ssaryonjr/ssaryonjr/blob/main/ezgif.com-gif-maker.gif?raw=true" alt="Naruto Game" height="322px" width="100%" />
 </a>
 <br>
@@ -33,14 +33,14 @@
 <a href="https://github.com/ssaryonjr/Naruto-Character-Selector/tree/main/Naruto.JS" target="_blank">
 <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
 </a>  
-<a href="https://narutobattlescreen-js.netlify.app/" target="_blank">
+<a href="https://green-thumbapp.netlify.app" target="_blank">
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=005da8"/>
 </a>
 </p>
-<p><strong>JavaScript, CSS3, HTML5</strong> — Created a vanilla JavaScript application using sprites from Naruto. You are able to switch fighters by clicking in the character select box much like any classic PVP game!</p>
+<p><strong>JavaScript, CSS3, HTML5</strong> — Created a useful tool to that enables the user to see how to properly care for plants they want to grow!</p>
 </div>
 </td>
-<td width="50%">
+<!--    <td width="50%">
 <h3 align="center" color="white">Samflix Movie Info.</h2>
 <div align="center" >  
 <a href='https://ssjrmovieapi.netlify.app/'>
