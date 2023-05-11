@@ -77,7 +77,7 @@
 </p>
 <p><strong>JavaScript, jQuery, Bootstrap, CSS3, HTML5</strong> — Designed and deployed a fully responsive desktop and mobile web interface for customers of T&K Restaurant to browse their menu and connect to Door Dash and place orders for delivery or pick up.</p>
 </div>
-</td>
+      </td> -->
 <td width="50%">
 <h3 align="center" color="white">Coming Soon</h2>
 <div align="center" >  
@@ -98,7 +98,7 @@
 </div>
 </table>
 
-                                 </div> -->
+</div>
   
   <!--Analytics & Data-->
 <h2 align="center">Data & Analytics</h2>
