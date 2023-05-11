@@ -25,7 +25,7 @@
 <h3 align="center" color="white">Green-Thumb</h2>
 <div align="center" >  
 <a href='https://green-thumbapp.netlify.app'>
-<img src="https://github.com/ssaryonjr/ssaryonjr/blob/main/ezgif.com-gif-maker.gif?raw=true" alt="Green-Thumb" height="322px" width="100%" />
+<img src="https://watch.screencastify.com/v/csmnGvCk1zEcsSY6gMq5" alt="Green-Thumb" height="322px" width="100%" /> <!--https://github.com/ssaryonjr/ssaryonjr/blob/main/ezgif.com-gif-maker.gif?raw=true-->
 </a>
 <br>
 <br>
